@@ -10,7 +10,8 @@
 <img align="right" alt="Mike Brummett aka GoDjMike aka Pothole aka HugePothole" src="media/coding.gif" width="400" />
 
 Min-maxer. Photograpic memory. Life-long learner. I read, I code, I write, I build.
-Obsessed with AI/ML, SaaS and Startups. Founded my first AI startup ~2015.
+Obsessed with AI/ML, SaaS and Startups.
+I founded my first AI startup ~2015.
 
 **About Me:**
 
