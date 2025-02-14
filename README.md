@@ -9,15 +9,14 @@
 
 <img align="right" alt="Mike Brummett aka GoDjMike aka Pothole aka HugePothole" src="media/coding.gif" width="400" />
 
-Min-maxer. Photograpic memory. Life-long learner. I read, I code, I write, I build.
+Min-maxer. Photographic memory. Life-long learner. I read, I code, I write, I build.
 Obsessed with AI/ML, SaaS and Startups.
 I founded my first AI startup ~2015.
 
 **About Me:**
 
 - 🤝 I’m Mike Brummett (GoDjMike)
-- 😎 Hobbies: F1, NFL, Sci-fi, Dogs, Monster lo-carb
-- 📒 Interests: AI/ML, Startups, Solopreneurship, Design, Analytics
+- 😎 Hobbies: F1, NFL, Sci-fi, Dogs
+- 📒 Interests: AI/ML, Startups, Analytics
 - 🏢 80% building / 20% consulting
-- 📧 Email: HugePothole@gmail.com
 - 💬 Discord: godjmike
